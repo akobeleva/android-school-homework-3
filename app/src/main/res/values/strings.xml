@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework 3</string>
+    <string name="button_sender_fragment">Send message</string>
+    <string name="button_receiver_fragment">Read</string>
+    <string name="add_button">Add</string>
+    <string name="add_backstack_button">Add + BackStack</string>
+    <string name="replace_button">Replace</string>
+    <string name="replace_backstack_button">Replace + BackStack</string>
+</resources>
